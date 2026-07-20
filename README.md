@@ -1,6 +1,5 @@
 # aqualens
 
-[![tests](https://github.com/jxbyr/aqualens/actions/workflows/ci.yml/badge.svg)](https://github.com/jxbyr/aqualens/actions/workflows/ci.yml)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jxbyr/aqualens/blob/main/notebooks/quickstart.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
