@@ -10,8 +10,8 @@ Sentinel-2 composites from the Copernicus Data Space, classifies water vs
 land, and reports the water area over time with a trend and honest
 uncertainty — for any lake, reservoir, inland sea, or stretch of coast.
 
-Generalised from the [GEOL0069 Aral Sea analysis](https://github.com/jxbyr/GEOL0069-End-Of-Year-Assignment)
-(UCL, AI for Earth Observation). That project compared five ML classifiers;
+Generalised from my [Aral Sea analysis](https://github.com/jxbyr/GEOL0069-End-Of-Year-Assignment)
+for AI for Earth Observation module, UCL. That project compared five ML classifiers;
 this tool keeps the two that earned their place — a Gaussian Mixture Model
 (adaptive, gives per-pixel water probabilities) cross-checked against the
 parameter-free NDWI > 0 baseline — and drops the rest for efficiency.
